@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "22883246975a3af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f7e019e740e90f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9254c00869cadd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vorlagen/Protokolle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dbee2e6167ec0c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f019dd6f6e7ccaa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf731db2355f452e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaf364840d7fb219",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad531a5164ffbeaf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f038e80bb89648",
+    "type": "split",
+    "children": [
+      {
+        "id": "5638ea2045cc8537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41b534e306123294",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vorlagen/Protokolle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b69fbbafa86d757c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vorlagen/Protokolle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae2ac4fc809e67c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vorlagen/Protokolle.md"
+              }
+            }
+          },
+          {
+            "id": "676850f508d6fefb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca8ab3a61fa80294",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff89d128412824a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c12a384dd90f2cce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c079aca04982019",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5416e60b15844dfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a417240108a5d3d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9a07dae34d07af6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9254c00869cadd3f",
+  "lastOpenFiles": [
+    "Vorlagen/Formeln.md",
+    "Vorlagen/Protokolle.md",
+    "Vorlagen/Sätze.md",
+    "Vorlagen/Grundlage.md",
+    "Vorlagen/Physik",
+    "Vorlagen",
+    "vorlagen/Physik/Physik Protokoll.md",
+    "vorlagen/Physik/Physik Gesetz.md",
+    "vorlagen/Physik/Physik Formel.md",
+    "vorlagen/Physik",
+    "vorlagen/Grundlage.md",
+    "vorlagen",
+    "_Vorlagen/Physik/Physik Protokoll.md",
+    "_Vorlagen/Physik/Physik Gesetz.md",
+    "_Vorlagen/Physik/Physik Formel.md",
+    "_Vorlagen/Physik",
+    "_Vorlagen/Grundlage.md",
+    "_Vorlagen",
+    "Geographie/Strukturwandel.md",
+    "Untitled.md",
+    "Physik/Zusammenfassung/Mechanik/Dynamik/Energieerhaltungssatz.md",
+    "Obsidian Fähigkeiten.md",
+    "Impulse.md",
+    "Der vollkommen unelastische Stoß.md",
+    "Untitled.canvas",
+    "2023-09-13.md",
+    "Physik/Zusammenfassung/Fundamentales/Internationales Einheitensystem (SI).md",
+    "Physik/Zusammenfassung/Mechanik/Kinematik/Senkrechter Wurf.md",
+    "Physik/Zusammenfassung/Mechanik/Kinematik/Der freie Fall.md",
+    "Physik/Zusammenfassung/Mechanik/Dynamik/Newton'sche Axiome.md",
+    "Freier Fall.md",
+    "Physik/Zusammenfassung/Mechanik/Dynamik/Der elastische Stoß.md",
+    "Physik/Zusammenfassung/Mechanik/Schwingungen",
+    "Physik/Zusammenfassung/Mechanik/Wellen",
+    "Geschichte",
+    "Geographie",
+    "Physik/Zusammenfassung/Mechanik/Dynamik/Der unelastische Stoß.md"
+  ]
+}

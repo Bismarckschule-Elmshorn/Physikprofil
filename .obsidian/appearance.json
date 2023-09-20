@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,Noto Sans Math",
+  "enabledCssSnippets": [
+    "centered-tables",
+    "hide-properties"
+  ]
+}
