@@ -1,6 +1,6 @@
 {
-  "vimMode": false,
-  "showLineNumber": true,
+  "vimMode": true,
+  "showLineNumber": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true
 }

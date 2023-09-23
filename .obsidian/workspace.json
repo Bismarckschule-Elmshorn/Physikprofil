@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f7e019e740e90f",
+        "id": "37f3574cabbf6d92",
         "type": "tabs",
         "children": [
           {
-            "id": "9254c00869cadd3f",
+            "id": "fec1fb91f58ab72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vorlagen/Protokolle.md",
+                "file": "Das lineare Kraftgesetz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f1cee36181de73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorlagen/Protokolle.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorlagen/Protokolle.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorlagen/Protokolle.md"
+                "file": "README.md"
               }
             }
           },
@@ -221,44 +234,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9254c00869cadd3f",
+  "active": "d7f1cee36181de73",
   "lastOpenFiles": [
+    "Das lineare Kraftgesetz.md",
+    "Das Hookesche Gesetz.md",
+    "img/Das Hookesche Gesetz - Dehnung der Federn.svg",
+    "img",
+    "de-physik-mechanik-kräfte-hookesche_gesetz_infografik_dehnung_der_feder_durch_unterschiedliche_gewichte.svg",
+    "README.md",
+    "Vorlagen/Gesetze.md",
     "Vorlagen/Formeln.md",
     "Vorlagen/Protokolle.md",
-    "Vorlagen/Sätze.md",
-    "Vorlagen/Grundlage.md",
+    "asd.md",
+    "Der Blahblahvlah.md",
+    "Der Blablahblah.md",
+    "Der Grundsatz.md",
+    "Untitled 1.md",
+    "Untitled 1null.md",
+    "Welt.md",
+    "Der hi.md",
+    "Der as.md",
+    "DerWelt.md",
+    "Der.md",
+    "Das Leben.md",
+    "Vogel.md",
+    "Der Vogel.md",
+    "Das.md",
+    "Der a.md",
+    "Der a.md",
+    "Hallo?.md",
+    "Der Doppelspalt.md",
+    "arbeit-vier-punkt-null-flexibilisierung-100~_v-gseagaleriexl.jpg",
+    ".md",
+    "Vorlagen/Grundlagen",
     "Vorlagen/Physik",
     "Vorlagen",
-    "vorlagen/Physik/Physik Protokoll.md",
-    "vorlagen/Physik/Physik Gesetz.md",
-    "vorlagen/Physik/Physik Formel.md",
     "vorlagen/Physik",
-    "vorlagen/Grundlage.md",
     "vorlagen",
-    "_Vorlagen/Physik/Physik Protokoll.md",
-    "_Vorlagen/Physik/Physik Gesetz.md",
-    "_Vorlagen/Physik/Physik Formel.md",
     "_Vorlagen/Physik",
-    "_Vorlagen/Grundlage.md",
     "_Vorlagen",
-    "Geographie/Strukturwandel.md",
-    "Untitled.md",
-    "Physik/Zusammenfassung/Mechanik/Dynamik/Energieerhaltungssatz.md",
-    "Obsidian Fähigkeiten.md",
-    "Impulse.md",
-    "Der vollkommen unelastische Stoß.md",
     "Untitled.canvas",
-    "2023-09-13.md",
-    "Physik/Zusammenfassung/Fundamentales/Internationales Einheitensystem (SI).md",
-    "Physik/Zusammenfassung/Mechanik/Kinematik/Senkrechter Wurf.md",
-    "Physik/Zusammenfassung/Mechanik/Kinematik/Der freie Fall.md",
-    "Physik/Zusammenfassung/Mechanik/Dynamik/Newton'sche Axiome.md",
-    "Freier Fall.md",
-    "Physik/Zusammenfassung/Mechanik/Dynamik/Der elastische Stoß.md",
-    "Physik/Zusammenfassung/Mechanik/Schwingungen",
-    "Physik/Zusammenfassung/Mechanik/Wellen",
-    "Geschichte",
-    "Geographie",
-    "Physik/Zusammenfassung/Mechanik/Dynamik/Der unelastische Stoß.md"
+    "Physik/Zusammenfassung/Mechanik/Schwingungen"
   ]
 }

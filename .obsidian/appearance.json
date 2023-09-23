@@ -5,6 +5,8 @@
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,Noto Sans Math",
   "enabledCssSnippets": [
     "centered-tables",
-    "hide-properties"
+    "hide-properties",
+    "rounded-images",
+    "centered-images"
   ]
 }
