@@ -10,11 +10,23 @@ Alle Unterrichtsmaterialien über den Physikunterricht.
 			- [x] [[Die Trägheitskraft]]
 		- [x] [[Das Hookesche Gesetz]]
 		- [x] [[Der Sinusförmiger Verlauf]]
+	- [x] [[Die Eigenfrequenz]]
+	- [x] [[Die Federkonstante]]
 	- [ ] Nicht harmonische Schwingungen
 	- [ ] Ungedämpfte Schwingungen
 	- [ ] Gedämpfte Schwingungen
+- [x] Kinematik
+	- [x] [[Die Geschwindigkeit des Körpers]]
+	- [x] [[Die Beschleunigung des Körpers]]
+- [x] Dynamik
+	- [x] [[Die Potenzielle Energie]]
+	- [x] [[Die Kinetische Energie]]
+	- [ ] Newtonsche Gesetze
+		- [ ] 1
+		- [ ] 2
+		- [ ] 3
 - [ ] Mechanische Wellen
-	- [ ] [[Ausbreitung einer Schwingung im Raum]]
+	- [ ] [[Die Ausbreitung einer Schwingung im Raum]]
 	- [ ] [[Energietransport]]
 	- [ ] [[Transversalwelle]]
 	- [ ] [[ Longitudinalwelle]]
@@ -25,14 +37,6 @@ Alle Unterrichtsmaterialien über den Physikunterricht.
 	- [ ] [[Reflexion]]
 	- [ ] [[Brechung]]
 	- [ ] [[Beugung]]
-- [ ] Dynamik
-	- [ ] [[Potenzielle Energie]]
-	- [ ] [[Kinetische Energie]]
-	- [ ] [[Eigenfrequenz]]
-	- [ ] [[Auslenkung des Körpers $y$]]
-	- [ ] [[Geschwindigkeit des Körpers $v=\dot{y}$]]
-	- [ ] [[Träge Masse des Körpers $m$]]
-	- [ ] [[Federkonstante $D$]]
 - [ ] Wellen ^Wellen
 	- [ ] [[Ebene Wellen ]]
 	- [ ] [[Optik]]
