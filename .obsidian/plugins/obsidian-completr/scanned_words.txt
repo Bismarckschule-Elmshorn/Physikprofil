@@ -57,6 +57,7 @@ schätze
 Untitled
 Unterrichtsmaterialien
 Unterschied
+Ungedämpfte
 prompt
 proportional
 pendel
@@ -158,6 +159,7 @@ Wenn
 Widerstand
 Gesetz
 Gesetzen
+Gedämpfte
 Federpendel
 Federkonstante
 Festkörpers
@@ -188,6 +190,7 @@ Verlauf
 Je
 oder
 Nach
+Nicht
 Lösung
 Letztendlich
 Ich

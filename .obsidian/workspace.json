@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f56e491dfc14905",
+        "id": "442d608efc1a1d64",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9841343d8e3114",
+            "id": "d516242ddc3af045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -221,20 +221,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c9841343d8e3114",
+  "active": "d516242ddc3af045",
   "lastOpenFiles": [
-    "Der Sinusförmiger Verlauf.md",
+    "Mechanische Schwingungen/Harmonische Schwingungen/Das Hookesche Gesetz.md",
     "README.md",
-    "Die Schwingungsgleichung.md",
+    "Mechanische Schwingungen/Harmonische Schwingungen",
+    "Mechanische Schwingungen",
+    "Mechanische Schwingungen/Harmonische Schwingungen/Der Sinusförmiger Verlauf.md",
+    "Mechanische Schwingungen/Harmonische Schwingungen/Die Schwingungsgleichung.md",
     "Herleitung der Formeln.md",
-    "Die Trägheitskraft.md",
-    "Das lineare Kraftgesetz.md",
-    "Das Hookesche Gesetz.md",
-    "Vorlagen/Protokolle.md",
-    "Vorlagen/Gesetze.md",
-    "Vorlagen/Formeln.md",
-    "img/Das Hookesche Gesetz - Dehnung der Federn.svg",
-    "img",
+    "Mechanische Schwingungen/Harmonische Schwingungen/Die Trägheitskraft.md",
+    "Mechanische Schwingungen/Harmonische Schwingungen/Das lineare Kraftgesetz.md",
+    "*Vorlagen/Protokolle.md",
+    "*Vorlagen/Gesetze.md",
+    "*Vorlagen/Formeln.md",
+    "Mechanische Schwingungen/Harmonische Schwingungen/img/Das Hookesche Gesetz - Dehnung der Federn.svg",
+    "Mechanische Schwingungen/Harmonische Schwingungen/img",
     "de-physik-mechanik-kräfte-hookesche_gesetz_infografik_dehnung_der_feder_durch_unterschiedliche_gewichte.svg",
     "asd.md",
     "Der Blahblahvlah.md",
@@ -251,17 +253,14 @@
     "Vogel.md",
     "Der Vogel.md",
     "Das.md",
-    "Der a.md",
     "arbeit-vier-punkt-null-flexibilisierung-100~_v-gseagaleriexl.jpg",
     ".md",
     "Vorlagen/Grundlagen",
     "Vorlagen/Physik",
-    "Vorlagen",
+    "*Vorlagen",
     "vorlagen/Physik",
     "vorlagen",
     "_Vorlagen/Physik",
-    "_Vorlagen",
-    "Untitled.canvas",
-    "Physik/Zusammenfassung/Mechanik/Schwingungen"
+    "Untitled.canvas"
   ]
 }
