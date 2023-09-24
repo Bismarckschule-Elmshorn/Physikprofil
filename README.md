@@ -2,11 +2,13 @@
 Alle Unterrichtsmaterialien über den Physikunterricht.
 
 ### Todo
-- [ ] Harmonische Schwingungen
-	- [x] [[Das lineare Kraftgesetz]]
+- [x] Harmonische Schwingungen
+	- [x] Federpendel
+		- [x] [[Die Schwingungsgleichung]]
+		- [x] [[Das lineare Kraftgesetz]]
+		- [x] [[Die Trägheitskraft]]
 	- [x] [[Das Hookesche Gesetz]]
-	- [ ] [[Differenzialgleichung]]
-	- [ ] [[Sinusförmiger Verlauf]]
+	- [x] [[Der Sinusförmiger Verlauf]]
 - [ ] Mechanische Wellen
 	- [ ] [[Ausbreitung einer Schwingung im Raum]]
 	- [ ] [[Energietransport]]
@@ -27,7 +29,7 @@ Alle Unterrichtsmaterialien über den Physikunterricht.
 	- [ ] [[Geschwindigkeit des Körpers $v=\dot{y}$]]
 	- [ ] [[Träge Masse des Körpers $m$]]
 	- [ ] [[Federkonstante $D$]]
-- [ ] Wellen
+- [ ] Wellen ^Wellen
 	- [ ] [[Ebene Wellen ]]
 	- [ ] [[Optik]]
 		- [ ] [[Einfachspalt]]
@@ -35,4 +37,8 @@ Alle Unterrichtsmaterialien über den Physikunterricht.
 		- [ ] [[Gitter]]
 
 - [ ] [[Protokollaufbau]]
-- [ ] [[Herleitung der Formeln (von den Wellen)]]
+- [ ] [[Herleitung der Formeln]] [[#^Wellen]]
+
+
+## Fragen an Frau Ruhner
+- Beim [[Die Schwingungsgleichung|DGL]], muss man die 2 Punkte über der Funktion haben oder kann man ganz einfach Striche machen? ($\ddot y$ oder $y′′$)

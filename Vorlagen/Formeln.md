@@ -12,7 +12,7 @@ if (filename.startsWith("Untitled")) {
 }
 _%>
 
-## $ <% tp.file.cursor(1) %> $
+## $<% tp.file.cursor(1) %>$
 $$
 \begin{aligned}
 &<% tp.file.cursor(2) %>: <% tp.file.cursor(3) %> \\
