@@ -14,9 +14,9 @@ Hoffentlich dient das als eine gute Vorbereitung für das Abitur!
 		- [x] [[Der Sinusförmiger Verlauf]]
 	- [x] [[Die Eigenfrequenz]]
 	- [x] [[Die Federkonstante]]
-	- [ ] [[Die Nicht harmonische Schwingungen]]
-	- [ ] [[Die Ungedämpfte Schwingungen]]
-	- [ ] [[Die Gedämpfte Schwingungen]]
+	- [ ] [[Die nicht harmonischen Schwingungen]]
+	- [ ] [[Die ungedämpften Schwingungen]]
+	- [ ] [[Die gedämpften Schwingungen]]
 
 - [x] Kinematik
 	- [x] [[Die Geschwindigkeit des Körpers]]
@@ -29,24 +29,29 @@ Hoffentlich dient das als eine gute Vorbereitung für das Abitur!
 
 - [ ] Mechanische Wellen
 	- [ ] [[Die Ausbreitung einer Schwingung im Raum]]
-	- [ ] [[Die Energietransport]]
+	- [ ] [[Der Energietransport]]
 	- [ ] [[Die Transversalwelle]]
 	- [ ] [[Die Longitudinalwelle]]
 	- [ ] [[Die Überlagerung von Wellen]]
 	- [ ] [[Die Stehende Welle]]
-	- [ ] [[Die Huygens'sches Prinzip]]
+	- [ ] [[Das Huygens'sche Prinzip]]
 	- [ ] [[Die Interferenz]]
 	- [ ] [[Die Reflexion]]
 	- [ ] [[Die Brechung]]
 	- [ ] [[Die Beugung]]
-	- [ ] [[Die Schall]]
+	- [ ] [[Der Schall]]
 
-- [ ] Wellen ^Wellen
+- [ ] Wellen 
 	- [ ] [[Die Ebene Wellen]]
 	- [ ] [[Die Optik]]
-		- [ ] [[Die Einfachspalt]]
-		- [ ] [[Die Doppelspalt]]
-		- [ ] [[Die Gitter]]
+		- [ ] [[Der Einfachspalt]]
+		- [ ] [[Der Doppelspalt]]
+		- [ ] [[Das Gitter]]
 
-- [ ] [[Die Protokollaufbau]]
-- [ ] [[Die Herleitung der Formeln]] [[#^Wellen]]
+- [ ] [[Der Protokollaufbau]]
+- [ ] Die Herleitung aller Formeln
+	- [ ] Mechanische Schwingungen
+	- [ ] Kinematik
+	- [ ] Dynamik
+	- [ ] Mechanische Wellen
+	- [ ] Wellen
