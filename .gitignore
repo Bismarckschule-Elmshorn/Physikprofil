@@ -1,0 +1,6 @@
+### Obsidian ###
+# Config directory
+/.obsidian/*
+!/.obsidian/plugins
+!/.obsidian/snippets
+!/.obsidian/themes
