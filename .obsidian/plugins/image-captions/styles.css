@@ -1,0 +1,38 @@
+.image-captions-figure {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    display: table; /* To allow for correct caption text wrapping */
+    border-radius: 2px;
+}
+
+.image-captions-caption {
+    margin: -5px 0 0 0;
+    padding: 3px 5px;
+    text-align: center;
+    display: table-caption; /* To allow for correct caption text wrapping */
+    caption-side: bottom;
+}
+
+.theme-dark .image-captions-figure {
+    background: #303030;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.theme-dark .image-captions-caption {
+    background: #303030;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.theme-light .image-captions-figure {
+    background: #ebebeb;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.theme-light .image-captions-caption {
+    background: #ebebeb;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
