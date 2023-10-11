@@ -48,6 +48,17 @@ Hoffentlich dient das als eine gute Vorbereitung für das Abitur!
 		- [ ] [[Der Doppelspalt]]
 		- [ ] [[Das Gitter]]
 
+- [x] E-Lehre
+	- [x] Formeln
+		- [x] $R=\dfrac{U}{I}$ [[Der Widerstand]]
+		- [x] $E=U \cdot I \cdot t$ [[Die elektrische Energie]]
+		- [x] $P = \dfrac{E}{t} = U \cdot I$ [[Die elektrische Leistung]]
+	- [x] Schaltungen
+		- [x] [[Die Reihenschaltung]]
+		- [x] [[Die Parallelschaltung]]
+
+- [ ] Elektrostatik
+
 - [ ] [[Der Protokollaufbau]]
 - [ ] Die Herleitung aller Formeln
 	- [ ] Mechanische Schwingungen
